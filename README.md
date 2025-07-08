@@ -1,6 +1,6 @@
 # MacroMaster
 
-MacroMaster is a powerful, customizable GUI macro tool for automated clicking and key‑press sequences, built with Python and Tkinter.
+MacroMaster is a simple, customizable GUI macro tool for automated clicking and key‑press sequences, built with Python and Tkinter.
 
 ## Features
 
@@ -25,7 +25,7 @@ MacroMaster is a powerful, customizable GUI macro tool for automated clicking an
 ## Installation
 
 ```bash
-git clone https://github.com/<ProJug>/MacroMaster.git
+git clone https://github.com/ProJug/MacroMaster.git
 cd MacroMaster
 python -m venv venv
 source venv/bin/activate   # or `venv\Scripts\activate` on Windows
